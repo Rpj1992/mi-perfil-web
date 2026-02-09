@@ -24,3 +24,9 @@ body {
     margin: 2px;
 }
 
+.formulario {
+    display: flex; 
+    flex-flow: row; 
+    gap: 10px;
+    font-size: smaller;
+}
